@@ -4,7 +4,7 @@
 - 👩‍💻 Estagiária de Inteligência de Mercado no Grupo RBS
 - 👩‍🎓 Estudante de Relações Públicas - PUCRS - 7º semestre
 - 📚 Atualmente, estou estudando BigQuery e realizando automações na organização na qual estou inserida
-- 📊 Estou aprendendo e desenvolvendo alguns projetos no PowerBi, que podem ser conferidos através do arquivo "Case.pdf"
+- 📊 Estou aprendendo e desenvolvendo alguns projetos no PowerBi, que podem ser conferidos através do arquivos anaxados neste repositório
 
   </div>
   
