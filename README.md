@@ -1,10 +1,15 @@
-### Olá! Eu me chamo Quétlin Santos
+## Olá! Eu me chamo Quétlin Santos
 
+👩‍💻 Atualmente, atuo como estagiária de inteligência de mercado no Grupo RBS. Estou buscando novas experiências e conhecimentos na área de dados, especificamente na área de BI.
 
-- 👩‍💻 Estagiária de Inteligência de Mercado no Grupo RBS
-- 👩‍🎓 Estudante de Relações Públicas - PUCRS - 7º semestre
-- 📚 Atualmente, estou estudando BigQuery e realizando automações na organização na qual estou inserida
-- 📊 Estou aprendendo e desenvolvendo alguns projetos no PowerBi, que podem ser conferidos através do arquivos anaxados neste repositório
+👩‍🎓 Curso Relações Públicas na escola de Comunicação, Artes e Design - Famecos, na Pucrs.
+
+🔍 Possuo grande capacidade analítica e resolução de problemas, assim como, grande capacidade de comunicação, que desenvolvi ao longo de meu curso. 
+
+📊 Tenho conhecimento e experiência com SQL (Big Query), Power BI, Google Analytics, Google Tag Manager e Google Looker Studio. Além disso, possuo experiência com metodologias ágeis.
+
+📚 Busco sempre aprimorar meus conhecimentos e habilidades, seja através de cursos, eventos, palestras ou quaisquer oportunidades que venham surgir. Como forma de ampliar meus conhecimentos, iniciei minha trajetória na pesquisa, atuando como Bolsista de Iniciação Científica no Grupo de Estudos Avançados em Comunicação Organizacional (GEACOR).
+Também estou realizando curso de inglês nível 1 e 2, buscando tornar-me fluente na língua inglesa.
 
   </div>
   
